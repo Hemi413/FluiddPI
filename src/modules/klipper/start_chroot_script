@@ -1,9 +1,9 @@
-#!/usr/bin/env bash
-# Klipper install script
-# Script that installs Klipper
-# Written by Raymond Himle and Stefan Dej
-# Thanks to KevinOConnor
-# GPL V3
+!/usr/bin/env bash
+ Klipper install script
+ Script that installs Klipper
+ Written by Raymond Himle and Stefan Dej
+ Thanks to KevinOConnor
+ GPL V3
 ########
 
 
